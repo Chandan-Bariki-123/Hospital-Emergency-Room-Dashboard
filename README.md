@@ -100,13 +100,7 @@ The dashboard provides an overview of patient referrals across different departm
 
 Users can analyze patient data across different months using the interactive month selection.
 
----
 
-## 📷 Dashboard Preview
-
-![Hospital Emergency Room Dashboard](Dashboard.png)
-
----
 
 ## 🔍 Key Skills Demonstrated
 
